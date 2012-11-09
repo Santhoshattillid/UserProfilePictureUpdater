@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="e5a0427a-6a44-4fe9-b170-975155c78662" solutionId="e5a0427a-6a44-4fe9-b170-975155c78662" resetWebServer="false" name="UserProfilePictureUpdater" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <projectItems>
+    <projectItemReference itemId="0b9928c3-e2d6-49e8-9161-e90bebf9a567" />
+  </projectItems>
+</package>

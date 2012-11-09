@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="e5a0427a-6a44-4fe9-b170-975155c78662" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="UserProfilePictureUpdater.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Layouts\UserProfilePictureUpdater\Stylesheet.css" />
+    <TemplateFile Location="Layouts\UserProfilePictureUpdater\UpdateUserProfileImage.aspx" />
+  </TemplateFiles>
+</Solution>
